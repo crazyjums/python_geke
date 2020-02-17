@@ -1,6 +1,6 @@
 # python_geke
 
-![Python Playground](https://cdn.jsdelivr.net/gh/crazyjums/python_geke@master/cover.png)
+![](https://cdn.jsdelivr.net/gh/crazyjums/python_geke@master/cover.png)
 
 Code for all the projects in the book Python Playground published by
 No Starch Press, USA.
